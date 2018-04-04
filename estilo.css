@@ -2,3 +2,7 @@
     font-size:40px;
     border: activeborder solid 3px;
 }
+
+.mainForm{
+    position: fixed;
+}

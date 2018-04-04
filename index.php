@@ -14,7 +14,7 @@ and open the template in the editor.
         <p class="titulo">
             LOGIN
         </p>
-        <form action="procesador.php">
+        <form action="procesador.php" class="mainForm">
             <input type="text" name="usuario"> <br>
             <input type="password" name="contraseña"> <br>
             <input type="submit" name="boton" value="ingresar"> <br>
